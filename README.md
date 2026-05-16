@@ -16,7 +16,7 @@ This portfolio showcases my skills, experience, and projects as a Data Science S
 
 ## Live Demo
 
-**[Live URL Placeholder - Replace after deployment]**
+[**[https://portfolio-seven-kappa-opcmhig8o0.vercel.app/]**]
 
 ## Author
 
