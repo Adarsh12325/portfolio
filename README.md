@@ -16,7 +16,7 @@ This portfolio showcases my skills, experience, and projects as a Data Science S
 
 ## Live Demo
 
-[**[https://portfolio-seven-kappa-opcmhig8o0.vercel.app/]**]
+**https://portfolio-seven-kappa-opcmhig8o0.vercel.app/**
 
 ## Author
 
@@ -40,7 +40,7 @@ To run this project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Adarsh12325/portfolio.git
    cd personal-portfolio-website
    ```
 
